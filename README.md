@@ -14,16 +14,22 @@ Model selection: Elbow, Silhouette and BIC.
 
 # Step by step
 
-## Install dependencies
+### Install dependencies
 
+```shell script
 pipenv install
+```
 
-## Start environment
+### Start environment
 
+```shell script
 pipenv shell
+```
 
-## Run notebook
+### Run notebook
 
+```shell script
 jupyter notebook
+```
 
 if your packages doens`t work, run the following commands "$ sudo pip install --upgrade ipykernel" "$ python3 -m ipykernel install --user" inside your project environment.
