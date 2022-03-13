@@ -14,7 +14,7 @@ matplotlib 3.4.2
 
 sklearn 0.0
 
-scipy 1.7.0
+scipy *
 
 # Database
 
