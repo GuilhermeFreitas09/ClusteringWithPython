@@ -32,4 +32,12 @@ pipenv shell
 jupyter notebook
 ```
 
-if your packages doens`t work, run the following commands "$ sudo pip install --upgrade ipykernel" "$ python3 -m ipykernel install --user" inside your project environment.
+if your packages doens`t work, run the following commands inside your project environment:
+
+```shell script
+sudo pip install --upgrade ipykernel
+```
+
+```shell script
+python3 -m ipykernel install --user
+```
