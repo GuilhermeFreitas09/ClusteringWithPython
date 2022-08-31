@@ -1,7 +1,5 @@
-Pipfile.lock
-
 data/
-
+.idea/
 .DS_Store
 
 .ipynb_checkpoints/

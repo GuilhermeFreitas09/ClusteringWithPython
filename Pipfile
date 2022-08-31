@@ -12,6 +12,7 @@ sklearn = "*"
 scipy = "*"
 jupyter = "*"
 scikit-learn-extra = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
