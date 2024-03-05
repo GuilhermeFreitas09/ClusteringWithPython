@@ -10,7 +10,7 @@ https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python/cod
 
 Clustering: Agglomerative, K-Means, PAM (K-Medoids), DBSCAN, OPTICS and GMM.
 
-Model selection: Elbow, Silhouette and BIC.
+Model selection: Elbow, Silhouette, and BIC.
 
 # Step by step
 
@@ -32,7 +32,7 @@ pipenv shell
 jupyter notebook
 ```
 
-if your packages doens't work, run the following commands inside your 
+if your packages don't work, run the following commands inside your 
 project environment:
 
 ```shell script
