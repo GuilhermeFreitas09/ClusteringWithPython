@@ -1,6 +1,6 @@
 # ClusteringWithPython
 
-Cluster analysis with python. 
+Cluster analysis with Python. 
 
 # Database
 
